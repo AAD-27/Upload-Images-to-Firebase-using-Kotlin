@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" ><b>Image Explorer</b></string>
+    <string name="gallery"><b>Gallery</b></string>
+    <string name="camera"><b>Camera</b></string>
+    <string name="upload"><b>Upload</b></string>
+    <string name="selected_image">Selected Image:</string>
+    <string name="Selected_image">Selected Image:</string>
+    <string name="welcome_click_on_camera_gallery_to_find_fruit_details">Welcome! Click on Camera/Gallery to find Fruit details</string>
+    <string name="welcome_click_on_camera_gallery_to_find_fruit_name" />
+    <string name="Welcome_click_on_camera_gallery_to_find_fruit_name">Welcome! Click on Camera/Gallery to find Fruit Name</string>
+    <string name="made_by_group_b9_vesit">~Made by Group B9 - VESIT~</string>
+    <string name="selected_image_will_appear_below">Selected Image will Appear Below:</string>
+</resources>
